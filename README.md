@@ -4,7 +4,7 @@
 
 Cosmic LoRa Pulse adalah Development Board Entry-Level dengan form factor terkecil dari Cosmic.id yang memudahkan kamu dalam pengembangan aplikasi IoT. Cosmic LoRa Pulse memiliki form factor atau dimensi terkecil dari line-up produk development board cosmic,sehingga kamu bisa menyisipkan alat ini di tempat-tempat sempit. Cosmic LoRa Ray dibekali dengan mikrokontroller hemat daya Pro Mini 3.3V 8Mhz seperti [Cosmic LoRa Ray](https://github.com/farizalemuda/cosmic-lora-ray). Tegangan kerja 3.3V memungkinkan perangkat ini disupply dari solar panel ataupun rechargeable LiPo battery. Dev Board ini telah dibekali dengan modul komunikasi LoRa berbasis Chip RFM95W yang bekerja di Frekuensi 915. Namun kamu ga usah khawatir karena chip ini bisa diconfig pada range 902-928MHz. Dev Board ini juga sudah dilengkapi dengan on-board charger LiPo via USB.
 
-"Pulse" memiliki denyut yang berasal dari "ujung" alam semesta. Seluruh product line Cosmic berbasis nama-nama yang ada di alam semesta.
+"Pulse" memiliki arti denyut yang berasal dari "ujung" alam semesta. Seluruh product line Cosmic berbasis nama-nama yang ada di alam semesta.
 
 ## Regulasi
 

@@ -6,12 +6,18 @@ Cosmic LoRa Pulse adalah Development Board Entry-Level dengan form factor terkec
 
 "Pulse" memiliki arti denyut yang berasal dari "ujung" alam semesta. Seluruh product line Cosmic berbasis nama-nama yang ada di alam semesta.
 
+## Technical Spesification
+
+Sedang dikerjakan
+
+## Documentation
+
+Sedang dikerjakan
+
 ## Regulasi
 
 [Peraturan Direktorat Jendral (Dirjen) Sumber Daya Dan Perangkat Pos Dan Informatika (SDPPI) No. 3 Tahun 2019](https://web.kominfo.go.id/sites/default/files/users/3997/PERDIRJEN%20SDPPI%20NO%203%20TAHUN%202019%20LPWA.pdf) telah mengatur terkait Frekuensi LoRa di Indonesia pada rentang frekuensi 920-923MHz.
 
-## Technical Spesification
-
-## Documentation
-
 ## FAQ
+
+Sedang dikerjakan

@@ -2,16 +2,41 @@
 
 ## Overview
 
-Cosmic LoRa Pulse adalah Development Board Entry-Level dengan form factor terkecil dari Cosmic.id yang memudahkan kamu dalam pengembangan aplikasi IoT. Cosmic LoRa Pulse memiliki form factor atau dimensi terkecil dari line-up produk development board cosmic, sehingga kamu bisa menyisipkan alat ini di tempat-tempat sempit. Cosmic LoRa Ray dibekali dengan mikrokontroller hemat daya Pro Mini 3.3V 8Mhz seperti [Cosmic LoRa Ray](https://github.com/farizalemuda/cosmic-lora-ray). Tegangan kerja 3.3V memungkinkan perangkat ini disupply dari solar panel ataupun rechargeable LiPo battery. Dev Board ini telah dibekali dengan modul komunikasi LoRa berbasis Chip RFM95W yang bekerja di Frekuensi 915. Namun kamu ga usah khawatir karena chip ini bisa diconfig pada range 902-928MHz. Dev Board ini juga sudah dilengkapi dengan on-board charger LiPo via USB.
+Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time to market or ease your DIY project. It has the smallest form factor all of Cosmic LoRa Development Board line up. Hence, you can reside this board in the dimension-constrained spot. It is also armed with a low-power microcontroller ATMega 328 with Pro Mini bootloader just like [Cosmic LoRa Ray](https://github.com/farizalemuda/cosmic-lora-ray). The low-power feature than amplified with the selection of 8 MHz crystal clock to make it consume less power. Furthermore, the board works with 3.3V which can be found on rechargeable LiPo battery and solar panel. Hence, Cosmic LoRa Pulse already had the on-board charging module with USB as the source. Speaking about the connectivity as part of the a-must IoT capability, the board equipped with LoRa(WAN) module of [RFM95W](https://cdn.sparkfun.com/assets/learn_tutorials/8/0/4/RFM95_96_97_98W.pdf). LoRa(WAN) has a good reputation for low power consumption, making this board even more useful in a low power ecosystem. In conclusion, this is the most go-to board for your IoT applications.
 
-"Pulse" memiliki arti denyut yang berasal dari "ujung" alam semesta. Seluruh product line Cosmic berbasis nama-nama yang ada di alam semesta.
+> Cosmic are universe so our products name are based on universe.
 
-## Regulasi
-
-[Peraturan Direktorat Jendral (Dirjen) Sumber Daya Dan Perangkat Pos Dan Informatika (SDPPI) No. 3 Tahun 2019](https://web.kominfo.go.id/sites/default/files/users/3997/PERDIRJEN%20SDPPI%20NO%203%20TAHUN%202019%20LPWA.pdf) telah mengatur terkait Frekuensi LoRa di Indonesia pada rentang frekuensi 920-923MHz.
+[Dokumentasi dalam bahasa Indonesia](id/)
 
 ## Technical Spesification
 
+On-going
+
 ## Documentation
 
+On-going
+
+### Pinout Diagram
+
+On-going
+
+### LoRa(WAN) Chip Interfacing
+
+| Cosmic LoRa Ray   | RFM95W |  
+|-------------------|------- |
+| D11               | MOSI   |
+| D12               | MISO   |
+| D13               | SCK    |
+| D10               | NSS    |
+| D9                | RST    |
+| D2                | DIO0   |
+| D6                | DIO1   |
+| D7                | DIO2   |
+
+### Examples
+
+On-going
+
 ## FAQ
+
+On-going

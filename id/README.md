@@ -20,7 +20,15 @@ Sedang dikerjakan
 
 ### Interkoneksi Board dan LoRa(WAN) Chip
 
-Sedang dikerjakan
+| Cosmic LoRa Ray   | RFM95W |  
+|-------------------|------- |
+| D11               | MOSI   |
+| D12               | MISO   |
+| D13               | SCK    |
+| D10               | NSS    |
+| D9                | RST    |
+| D2                | DIO0   |
+| D6                | DIO1   |
 
 ### Examples
 

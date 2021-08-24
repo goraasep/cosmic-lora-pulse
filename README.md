@@ -29,7 +29,6 @@ On-going
 | D9                | RST    |
 | D2                | DIO0   |
 | D6                | DIO1   |
-| D7                | DIO2   |
 
 ### Examples
 

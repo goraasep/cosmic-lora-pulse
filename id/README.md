@@ -20,7 +20,7 @@ Sedang dikerjakan
 
 ### Interkoneksi Board dan LoRa(WAN) Chip
 
-| Cosmic LoRa Ray   | RFM95W |  
+| Cosmic LoRa Pulse | RFM95W |  
 |-------------------|------- |
 | D11               | MOSI   |
 | D12               | MISO   |

@@ -20,7 +20,7 @@ On-going
 
 ### LoRa(WAN) Chip Interfacing
 
-| Cosmic LoRa Ray   | RFM95W |  
+| Cosmic LoRa Pulse | RFM95W |  
 |-------------------|------- |
 | D11               | MOSI   |
 | D12               | MISO   |

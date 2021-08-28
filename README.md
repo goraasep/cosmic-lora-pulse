@@ -27,6 +27,10 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 | LoRa(WAN) Base Freq     |                    915 MHz              |
 | LoRa(WAN) Freq Range    |                    902-928 MHz          |
 | Antenna Impedance       |                    50 Ohm               |
+| Available I/O           |                     |
+| Length                  |                                 |
+| Width                   |                                 |
+| Weight                  |                                      |
 
 ## Documentation
 

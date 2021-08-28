@@ -10,7 +10,23 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 
 ## Technical Spesification
 
-On-going
+| Feature                 |                    Value                |  
+| ----------------------- | --------------------------------------- |
+| Microcontroller         |                    Atmega 328P          |
+| Bootloader              |                    Pro Mini             |
+| Clock Speed             |                    8 MHz                |
+| USB Voltage Input       |                    4.5-5.5 V            |
+| Battery Voltage Input   |                    3.7-4.2 V            |
+| Dig. Input Voltage      |                    3.3 V                |
+| Dig. Output Voltage     |                    3.3 V                |
+| Analog Input Voltage    |                    3.3 V                |
+| Analog Digital Converter Resolution     |    10 bit               |
+| Max Output Current      |                    600 mA               |
+| Charging Rate           |                    200 mA               |
+| LoRa(WAN) Chip          |                    RFM95W               |
+| LoRa(WAN) Base Freq     |                    915 MHz              |
+| LoRa(WAN) Freq Range    |                    902-928 MHz          |
+| Antenna Impedance       |                    50 Ohm               |
 
 ## Documentation
 

@@ -1,6 +1,6 @@
 # LoRa Point to Point
 
-[back](./)
+[back](../)
 
 ## Topology
 

@@ -16,7 +16,9 @@ On-going
 
 ### Pinout Diagram
 
-On-going
+> Click image for higher resolution
+
+[![Cosmic LoRa Pulse Pinout](assets/pin-diagram.webp)](assets/pin-diagram.jpg "Cosmic LoRa Pulse Pinout")
 
 ### LoRa(WAN) Chip Interfacing
 

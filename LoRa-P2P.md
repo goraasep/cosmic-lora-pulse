@@ -15,8 +15,8 @@ On-going
 1. Plug the Cosmic LoRa Pulse to Laptop
 2. COM Port should be activated. (If not? Install driver)
 3. Setup in Arduino IDE
-   1. pick the appropriate board : Tools -> Board -> Arduino Pro or Pro Mini
-   2. pick the appropriate processor : Tools -> Board -> ATMega 328P (3.3V 8 MHz)
+   * Pick the appropriate board : Tools -> Board -> Arduino Pro or Pro Mini
+   * Pick the appropriate processor : Tools -> Board -> ATMega 328P (3.3V 8 MHz)
 
 4. to be continued...
 

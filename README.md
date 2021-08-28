@@ -13,7 +13,7 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 * [Technical Spesification](#technical-spesification)
 * [Documentation](#documentation)
   * [Pinout Diagram](#pinout-diagram)
-  * [LoRaWAN Chip Interfacing](#lorawan-chip-interfacing)
+  * [LoRa(WAN) Chip Interfacing](#lorawan-chip-interfacing)
   * [Examples](#examples)
 * [FAQ](#FAQ)
 
@@ -63,22 +63,8 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 
 ### Examples
 
-#### LoRa Point-to-Point
-
-##### Requirements
-
-* 2x [Cosmic LoRa Pulse](https://www.tokopedia.com/cosmic-iot/lora-arduino-development-board-915-mhz-915mhz-antenna-lora-pulse-v1)
-* 2x Micro USB Type B Cable
-* [Arduino IDE](https://www.arduino.cc/en/software)
-
-##### Source Codes
-
-* [Receiver](examples/LoRa_P2P_Receiver/LoRa_P2P_Receiver.ino)
-* [Transmitter](examples/LoRa_P2P_Transmitter/LoRa_P2P_Transmitter.ino)
-
-#### LoRaWAN
-
-* [ANTARES](examples/LoRaWAN_ANTARES/LoRaWAN_ANTARES.ino)
+* [LoRa Point-to-Point](LoRa-P2P.md)
+* LoRaWAN [ANTARES](examples/LoRaWAN_ANTARES/LoRaWAN_ANTARES.ino)
 
 ## FAQ
 

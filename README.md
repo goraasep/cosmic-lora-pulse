@@ -8,6 +8,15 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 
 [Dokumentasi dalam bahasa Indonesia](id/)
 
+## Table of Content
+
+* [Technical Spesification](#technical-spesification)
+* [Documentation](#documentation)
+  * [Pinout Diagram](#pinout-diagram)
+  * [LoRaWAN Chip Interfacing](#lorawan-chip-interfacing)
+  * [Examples](#examples)
+* [FAQ](#FAQ)
+
 ## Technical Spesification
 
 | Feature                 |                    Value                |  

@@ -8,6 +8,15 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 
 [Dokumentasi dalam bahasa Indonesia](id/)
 
+## Table of Content
+
+* [Technical Spesification](#technical-spesification)
+* [Documentation](#documentation)
+  * [Pinout Diagram](#pinout-diagram)
+  * [LoRa(WAN) Chip Interfacing](#lorawan-chip-interfacing)
+  * [Examples](#examples)
+* [FAQ](#FAQ)
+
 ## Technical Spesification
 
 | Feature                 |                    Value                |  
@@ -27,6 +36,10 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 | LoRa(WAN) Base Freq     |                    915 MHz              |
 | LoRa(WAN) Freq Range    |                    902-928 MHz          |
 | Antenna Impedance       |                    50 Ohm               |
+| Available I/O           |                     |
+| Length                  |                                 |
+| Width                   |                                 |
+| Weight                  |                                      |
 
 ## Documentation
 
@@ -50,14 +63,8 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 
 ### Examples
 
-#### LoRa Point-to-Point
-
-* [Receiver](examples/LoRa_P2P_Receiver/LoRa_P2P_Receiver.ino)
-* [Transmitter](examples/LoRa_P2P_Transmitter/LoRa_P2P_Transmitter.ino)
-
-#### LoRaWAN
-
-* [ANTARES](examples/LoRaWAN_ANTARES/LoRaWAN_ANTARES.ino)
+* [LoRa Point-to-Point](LoRa-P2P.md)
+* LoRaWAN [ANTARES](examples/LoRaWAN_ANTARES/LoRaWAN_ANTARES.ino)
 
 ## FAQ
 

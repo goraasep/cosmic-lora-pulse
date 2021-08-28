@@ -16,7 +16,9 @@ Sedang dikerjakan
 
 ### Tata Letak Pin
 
-Sedang dikerjakan
+> Klik gambar untuk gambar yang lebih detail
+
+[![Cosmic LoRa Pulse Pinout](assets/pin-diagram.webp)](assets/pin-diagram.jpg "Cosmic LoRa Pulse Pinout")
 
 ### Interkoneksi Board dan LoRa(WAN) Chip
 

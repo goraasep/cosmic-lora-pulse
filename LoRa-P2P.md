@@ -10,6 +10,14 @@ On-going
 * 2x Micro USB Type B Cable
 * [Arduino IDE](https://www.arduino.cc/en/software)
 
+## Step by Step
+
+1. Plug the Cosmic LoRa Pulse to Laptop
+2. COM Port should be activated. (If not? Install driver)
+3. Setup in Arduino IDE, pick the appropriate board : Tools -> Board -> Arduino Pro or Pro Mini. pick the appropriate processor : Tools -> Board -> ATMega 328P (3.3V 8 MHz)
+
+to be continued...
+
 ## Source Codes
 
 * [Receiver](examples/LoRa_P2P_Receiver/LoRa_P2P_Receiver.ino)

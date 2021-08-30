@@ -64,7 +64,7 @@ Cosmic LoRa Pulse is an Entry-Level Development Board that will fasten your time
 ### Examples
 
 * [LoRa Point-to-Point](LoRa-P2P.md)
-* LoRaWAN [ANTARES](examples/LoRaWAN_ANTARES/LoRaWAN_ANTARES.ino)
+* [LoRaWAN ANTARES](LoRaWAN-ANTARES.md)
 
 ## FAQ
 

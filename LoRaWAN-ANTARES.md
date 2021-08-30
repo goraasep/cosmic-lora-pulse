@@ -6,7 +6,7 @@ On-going
 
 ## Requirements
 
-* 1x [Cosmic LoRa Ray](https://www.tokopedia.com/cosmic-iot/lora-arduino-development-board-915mhz-915-mhz-antenna-charger)
+* 1x [Cosmic LoRa Pulse](https://www.tokopedia.com/cosmic-iot/lora-arduino-development-board-915-mhz-915mhz-antenna-lora-pulse-v1)
 * 1x Micro USB Type B Cable
 * [Arduino IDE](https://www.arduino.cc/en/software)
 

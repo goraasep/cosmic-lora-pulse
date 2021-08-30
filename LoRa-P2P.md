@@ -2,7 +2,7 @@
 
 ## Topology
 
-On-going
+![LoRa Point to Point](assets/point-to-point.png "LoRa Point-to-Point")
 
 ## Requirements
 
